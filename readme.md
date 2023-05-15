@@ -7,7 +7,7 @@ Além de prevenir erros do usuário, caso o usuário digite espaços indevidos, 
 ### Imagem do funcionamento normal
 ![Imagem](imagens-readme/funcionamento-codigo.png)
 ### Imagem do funcionamento com tratamentos de erros
-![Imagem](imagens-readme/funcionamento-codigo.png)
+![Imagem](imagens-readme/erros-codigo.png)
 
 
 ## Autor: Pedro Peixoto Viana de Oliveira
